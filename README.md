@@ -1,2 +1,1 @@
-# events
-Discord events stuff
+# Discord events stuff
